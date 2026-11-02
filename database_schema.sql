@@ -56,3 +56,4 @@ INSERT INTO Property (Property_ID, Type, Address, Price, Agent_ID, City) VALUES
 -- Update step 12
 -- Update step 13
 -- Update step 14
+-- Update step 15
