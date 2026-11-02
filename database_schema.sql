@@ -43,3 +43,4 @@ INSERT INTO Location (City, State, Pincode) VALUES
 INSERT INTO Property (Property_ID, Type, Address, Price, Agent_ID, City) VALUES 
 (101, 'Apartment', 'Sec-62', 4500000.00, 1, 'Noida'),
 (102, 'Villa', 'RDC', 8000000.00, 2, 'Ghaziabad');-- Update step 1
+-- Update step 2
