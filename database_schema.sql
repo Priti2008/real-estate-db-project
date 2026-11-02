@@ -45,3 +45,4 @@ INSERT INTO Property (Property_ID, Type, Address, Price, Agent_ID, City) VALUES
 (102, 'Villa', 'RDC', 8000000.00, 2, 'Ghaziabad');-- Update step 1
 -- Update step 2
 -- Update step 3
+-- Update step 4
